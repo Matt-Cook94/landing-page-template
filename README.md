@@ -1,3 +1,3 @@
-# landing-page
+# landing-page-template
 
-A simple landing page.
+A simple landing page template design.
